@@ -1,11 +1,3 @@
-# --------------------------------------------------------------------------
-# ------------  Metody Systemowe i Decyzyjne w Informatyce  ----------------
-# --------------------------------------------------------------------------
-#  Zadanie 4: Zadanie zaliczeniowe
-#  autorzy: A. Gonczarek, J. Kaczmar, S. Zareba
-#  2017
-# --------------------------------------------------------------------------
-
 import pickle as pkl
 #import datetime
 import numpy as np
